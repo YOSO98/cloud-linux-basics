@@ -15,3 +15,8 @@ Il est utilisé pour un diagnostic rapide sur un serveur Cloud.
 ## 02-create-cloud-user.sh
 Ce script automatise la création d’un utilisateur Cloud
 et son rattachement à un groupe DevOps.
+
+
+## 03-setup-srv-directory.sh
+Ce script crée un répertoire serveur sécurisé
+pour des données Cloud.
