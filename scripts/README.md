@@ -20,3 +20,8 @@ et son rattachement à un groupe DevOps.
 ## 03-setup-srv-directory.sh
 Ce script crée un répertoire serveur sécurisé
 pour des données Cloud.
+
+
+## 04-ssh-hardening.sh
+Ce script applique les bonnes pratiques de sécurisation SSH
+pour un serveur Cloud Linux
