@@ -31,3 +31,11 @@ pour un serveur Cloud Linux
 Ce script surveille l’utilisation du disque principal
 et écrit un log dans /var/log/cloud-disk-monitor.log.
 Il est destiné à être exécuté automatiquement via cron.
+
+
+## 06-system-monitor.sh
+Ce script collecte des informations système avancées :
+- charge CPU
+- mémoire utilisée
+- espace disque
+Les données sont enregistrées dans /var/log/cloud-system-monitor.log.
