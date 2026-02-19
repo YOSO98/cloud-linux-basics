@@ -25,3 +25,9 @@ pour des données Cloud.
 ## 04-ssh-hardening.sh
 Ce script applique les bonnes pratiques de sécurisation SSH
 pour un serveur Cloud Linux
+
+
+## 05-disk-usage-monitor.sh
+Ce script surveille l’utilisation du disque principal
+et écrit un log dans /var/log/cloud-disk-monitor.log.
+Il est destiné à être exécuté automatiquement via cron.
